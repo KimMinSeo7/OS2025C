@@ -1,0 +1,2 @@
+Go 명령어
+go mod init 프로젝트폴더명
